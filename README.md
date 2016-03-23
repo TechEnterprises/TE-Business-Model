@@ -1,10 +1,10 @@
-Decentralized Application (DApp) Business Model
+Tech Enterprises' Role in this Decentralized Business Model
 ========================================
 
-### What qualifies a project as a Decentralized Application?
+### What qualifies a project as a Decentralized Autonomous Oganization?
 
-1.  The application must be completely open-source, it must operate autonomously, with no entity controlling the majority of its tokens, and its data and records of operation must be cryptographically stored in a public, decentralized block chain.
-2.  The application must generate tokens according to a standard algorithm or set of criteria and possibly distribute some or all of its tokens at the beginning of its operation. These tokens must be necessary for the use of the application and any contribution from users should be rewarded by payment in the application's tokens.
+1.  The application must be completely open-source, it must operate autonomously, with no entity controlling an unfair portion of tokens, and its data and records of operation are to be cryptographically stored in a public, decentralized block chain.
+2.  The application must generate tokens according to a standard algorithm or set of criteria and possibly distribute some or all of its tokens at the beginning of its operation. These tokens must be necessary for the use of the application and any contribution from users are to be awarded by payment in the application's tokens.
 3.  The application may adapt its protocol in response to proposed improvements and market feedback but all changes must be decided by majority consensus of its users.
 
 ### What is the legal entity and what do they do?
